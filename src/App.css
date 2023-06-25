@@ -1,0 +1,9 @@
+canvas {
+  height: 100vh !important;
+}
+
+.htmlScreen iframe {
+  width: 1020px;
+  height: 680px;
+  border-radius: 10px;
+}
